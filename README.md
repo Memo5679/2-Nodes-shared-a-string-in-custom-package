@@ -6,3 +6,8 @@ Nodes: A node is an executable that uses ROS to communicate with other nodes. Me
 
 # Create 2 nodes shared a string message in a custom package (follow the below steps):
 __1- Create a ROS workspace  ____ 2- Create a new package ___ 3- Create publisher &amp; subscriber nodes using Python
+
+# References
+https://www.udemy.com/course/ros-basics-program-robots/ 
+
+http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29 https://www.youtube.com/watch?v=GBtKo_pXrJQ&t=5s
