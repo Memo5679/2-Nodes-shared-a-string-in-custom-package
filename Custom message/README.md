@@ -1,5 +1,5 @@
 # CustomMessage-ROS-
-Task 3 Part 1: Create 2 nodes shared a string message in a custom package
+Create 2 nodes shared a string message in a custom package
 
 # Robot Operating System
 Robot Operating System is robotics middleware. Although ROS is not an operating system, it provides services designed for a heterogeneous computer cluster such as hardware abstraction, low-level device control, implementation of commonly used functionality, message-passing between processes, and package management.
